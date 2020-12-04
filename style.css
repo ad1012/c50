@@ -1,0 +1,29 @@
+h1{
+    color:white;
+}
+*{
+    border:solid
+}
+
+.Me{
+    background-color: blue;
+}
+
+.Info{
+    background-color:tomato;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display:flex;
+
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.medias{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
